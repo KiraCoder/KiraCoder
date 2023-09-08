@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Toktonazar uulu Nuraaly</h1>
+<h1 align="center">Hi 👋, I'm Nuraaly Toktonazar Uulu</h1>
 <h3 align="center">3rd year computer science student</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4779k7rjethl4nhlh35swp56v7p4xiy3rbhj50e3ee&rid=giphy.gif&ct=g">
 - 🔭 I’m currently studying at City University of Hong Kong **Major name: Computer Science**
